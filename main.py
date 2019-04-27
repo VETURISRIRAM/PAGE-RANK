@@ -1,6 +1,6 @@
 """
 @author: Sriram Veturi
-@title: Information Retrieval HW4
+@title: Page Rank Algorithm
 @date: 04/05/2019
 """
 
